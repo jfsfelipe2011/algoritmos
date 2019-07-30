@@ -1,5 +1,5 @@
 {
-  "name": "jose/algoritimos",
+  "name": "jose/algoritmos",
   "license": "Not license",
   "description": "Classes para testes e estudo de algoritmos",
   "authors": [
@@ -9,7 +9,7 @@
     }
   ],
   "require-dev": {
-    "phpunit/phpunit": ">=4.8 < 6.0"
+    "phpunit/phpunit": "^7"
   },
   "autoload": {
     "psr-4": {
